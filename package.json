@@ -1,0 +1,13 @@
+{
+    "name": "fm-novaramedia-com",
+    "version": "0.1.0",
+    "author": "Novara Media",
+    "description": "24/7 icecast  player",
+    "dependencies": {
+        "node-static": "0.7.2",
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=10.0.0"
+    }
+}
