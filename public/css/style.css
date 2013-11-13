@@ -41,6 +41,8 @@ ul{margin-top:1em;margin-bottom:1em}
 .alignright{text-align:right}
 .mb10{margin-bottom:10px}
 .mb20{margin-bottom:20px}
+#livenow{background-color:#f00;color:#fff;letter-spacing:3px;-webkit-font-smoothing:antialiased;font-weight:bold;font-size:17px;text-align:center;padding-top:0;padding-bottom:0;transition:all 1s;height:0;overflow:hidden}
+#livenow:hover{background-color:#000}
 div#container{text-align:left;margin-left:auto;margin-right:auto;width:1320px}
 header{padding-top:20px;padding-bottom:25px}
 #logo{float:left;width:30%}
