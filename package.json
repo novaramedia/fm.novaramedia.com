@@ -4,7 +4,7 @@
     "author": "Novara Media",
     "description": "24/7 icecast  player",
     "dependencies": {
-        "node-static": "0.7.2",
+        "node-static": "0.7.2"
     },
     "license": "MIT",
     "engines": {
