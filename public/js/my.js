@@ -55,6 +55,8 @@ var stream = {
 
 $(document).ready(function() {
 
+//	checker url http://novaramedia.com/labs/icecast2_status/
+
 	$.getScript('http://live.novaramedia.com/js/schedule.min.js', function() {
 			if (isLive()) {
 				$('#livenow').css({
