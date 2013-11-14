@@ -59,6 +59,7 @@ header{padding-top:20px;padding-bottom:25px}
 .startstop{display:inline-block;min-width:40px}
 .jp-volume-bar{background-color:#fff;position:relative;width:60px;height:1.5em}
 .jp-volume-bar-value{background-color:#808080;position:relative;height:1.5em}
+#np{display:none}
 #social-media .tweets{max-width:550px;margin-left:auto;margin-right:auto}
 #social-media ul{margin-top:1em}
 #social-media ul li{padding:.5em}
