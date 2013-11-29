@@ -110,7 +110,8 @@ function initStream() {
 
 var stream = {
 			title: "NovaraFM Archive",
-			oga: "http://stream.fm.novaramedia.com:8000/novarafm_archive.ogg"
+/* 			oga: "http://stream.fm.novaramedia.com:8000/novarafm_archive.ogg" */
+			oga: "http://localhost:8000/novarafm_archive.ogg"
 		},
 			ready = false;
 		var my_jPlayer = $("#jplayer"),
